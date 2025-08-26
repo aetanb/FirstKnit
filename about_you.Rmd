@@ -1,12 +1,15 @@
 ---
 title: "First Knit"
 author: "Aetan Barquero"
-output: 
+date: "`r Sys.Date()`"
+output:
   html_document:
     number_sections: true
     toc: true
     toc_depth: 5
-date: "`r Sys.Date()`"   
+  pdf_document:
+    toc: true
+    toc_depth: '5'
 ---
 
 # A Little Survey
@@ -27,7 +30,6 @@ Where did you attend High School, and did you graduate? Compare english class to
 
 
 ### my answer
-I have a windows computer at home. In terms of computer knowledge I would rate myself a 7 since. The internet access at home is great. 
 
 
 
@@ -36,8 +38,7 @@ I have a windows computer at home. In terms of computer knowledge I would rate m
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-My first name Aetan is perfectly fine. My first name is pronounced Ay-ten.
-   
+
  
 
 
@@ -47,7 +48,6 @@ My first name Aetan is perfectly fine. My first name is pronounced Ay-ten.
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-I want to live a stable life and have a family. I am most interested in psychology and studying in order to work in the field. I am working in order to obtain at least a masters in psychology. 
 
 
 
@@ -56,9 +56,7 @@ I want to live a stable life and have a family. I am most interested in psycholo
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
-I have not yet been to any foreign countries however, i do want to visit Iceland one day. I have not been to the military but If I were to be drafted I think I would want to geet drafted to the airforce since I have mutliple friends pursuing or already in the airforce therefore, that is the branch which I have the most knowledge about.   
- 
-  
+
 
 
 
@@ -69,8 +67,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
  
 
 ### my answer     
-  I have not before taken math 115 or 116 so this class will be my first math 116 class. I was not aware that math 116 is more compatible when transfering to a 4 year so it is a great thing that I took this clas since that is my plan. I will get an A in this class so that I can pursue my masters degree in psychology and attend a 4 year university. 
-  
+
  
 
 
