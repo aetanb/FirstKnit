@@ -3,13 +3,16 @@ title: "First Knit"
 author: "Aetan Barquero"
 date: "`r Sys.Date()`"
 output:
+  word_document:
+    toc: true
+    toc_depth: '5'
+  pdf_document:
+    toc: true
+    toc_depth: '5'
   html_document:
     number_sections: true
     toc: true
     toc_depth: 5
-  pdf_document:
-    toc: true
-    toc_depth: '5'
 ---
 
 # A Little Survey
